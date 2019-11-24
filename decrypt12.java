@@ -1,4 +1,4 @@
-package decrypt12;
+pdckage decrypt12;
 
 /*
  * 
